@@ -1,0 +1,10 @@
+#father > * {
+  padding-left: 20px;
+}
+
+.addItem {
+  background-color: bisque;
+}
+.displayItems {
+  background-color: #e2725b;
+}
